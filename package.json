@@ -1,0 +1,19 @@
+{
+  "name": "suryaff733",
+  "version": "1.0.0",
+  "description": "Singu Surya's GitHub Profile README & Animated Jet Heatmap",
+  "author": "Singu Surya <suryasingu0@gmail.com> (https://github.com/suryaff733)",
+  "homepage": "https://github.com/suryaff733/suryaff733",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suryaff733/suryaff733.git"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "generate": "node generate.mjs",
+    "convert": "python3 convert_portrait.py"
+  }
+}
