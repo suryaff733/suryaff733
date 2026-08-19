@@ -25,3 +25,11 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<div align="center">
+  <a href="https://cloud.layer5.io/user/b4875e51-a89b-494f-ae3d-f10af81b4211?tab=badges&badge=first-design" alt="First Design">
+    <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" />
+  </a>
+  <br />
+  <sup><a href="https://badges.layer5.io">Get your own badge</a></sup>
+</div>
