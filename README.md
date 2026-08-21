@@ -30,6 +30,9 @@
   <a href="https://cloud.layer5.io/user/b4875e51-a89b-494f-ae3d-f10af81b4211?tab=badges&badge=first-design" alt="First Design">
     <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" />
   </a>
+  <a href="https://cloud.layer5.io/user/b4875e51-a89b-494f-ae3d-f10af81b4211?tab=badges&badge=certified-meshery-contributor" alt="Certified Meshery Contributor">
+    <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
+  </a>
   <br />
   <sup><a href="https://badges.layer5.io">Get your own badge</a></sup>
 </div>
